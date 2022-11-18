@@ -1,5 +1,5 @@
 ---
-tags: on/obsidion, obsidian/formatting
+tags: on/obsidian, obsidian/formatting
 ---
 
 # What is it? 
