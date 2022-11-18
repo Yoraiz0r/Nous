@@ -24,7 +24,7 @@ list from #moc
 Obsidian is a powerful tool with a lot of different plugins and features. Some of the formatting and content may look weird if you don't have the matching [[Obsidian Plugins this vault uses]] installed.
 
 ## To Contribute to the vault
-This vault is stored on [[This Vaults Github|Github]]. If you would like to contribute, feel free to checkout the [[How to Contribute]] section and [[Fork a Github Repository|Fork the Repository]] so that you can make [[Pull Requests]]. 
+This vault is stored on [[This Vaults Github Repository|Github]]. If you would like to contribute, feel free to checkout the [[How to Contribute]] section and [[Fork a Github Repository|Fork the Repository]] so that you can make [[Pull Requests]]. 
 
 # Join the Community!
 This vault sprung up from [[Jason Storey]]'s  Community. It is a private [[Discord Community]] that you can gain access to by contributing on his [Kofi Donation Page](https://ko-fi.com/jasonstorey). There is also the ability to donate on [Jason's Website](https://jason.guide).
