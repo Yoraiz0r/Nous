@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "34b235d9e7074025",
+    "type": "split",
+    "children": [
+      {
+        "id": "badcc3bbf7227020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42be109c75e5d8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "028b6dec3ee1f3fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ee989cbb00b233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a0792568303501",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c50df21a2dd0d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0d89d1e2afcf84d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "6b56ddca8d50ef0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a930cc9de19cf177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52908804904c0e23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc90918240e28293",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "099197a815058b8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "636c0f510ea84584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "42be109c75e5d8a0",
+  "lastOpenFiles": [
+    "040 Areas/Obsidian/This Vaults Github.md",
+    "Home.md",
+    "040 Areas/Obsidian/Obsidian MOC.md",
+    "040 Areas/Obsidian/What is Obsidian.md",
+    "jason.guide.md",
+    "040 Areas/Obsidian/Obsidian Plugins this vault uses.md",
+    "040 Areas/Obsidian/List Callouts.md",
+    "040 Areas/Obsidian/Obsidian Callouts.md",
+    "040 Areas/Obsidian/Obsidian Dataview.md",
+    "040 Areas/Obsidian/Install Obsidian.md"
+  ]
+}
