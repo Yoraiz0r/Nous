@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42be109c75e5d8a0",
+            "id": "5ebfa96afc2b4228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -64,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "25d7ad1860667005",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 267.5
   },
   "right": {
     "id": "6b56ddca8d50ef0d",
@@ -128,25 +137,41 @@
                 "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "a265efab923b2f7a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8f5a88fd3def796",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "42be109c75e5d8a0",
+  "active": "5ebfa96afc2b4228",
   "lastOpenFiles": [
-    "040 Areas/Obsidian/This Vaults Github.md",
-    "Home.md",
-    "040 Areas/Obsidian/Obsidian MOC.md",
-    "040 Areas/Obsidian/What is Obsidian.md",
-    "jason.guide.md",
-    "040 Areas/Obsidian/Obsidian Plugins this vault uses.md",
     "040 Areas/Obsidian/List Callouts.md",
+    "040 Areas/Obsidian/Install Obsidian.md",
     "040 Areas/Obsidian/Obsidian Callouts.md",
     "040 Areas/Obsidian/Obsidian Dataview.md",
-    "040 Areas/Obsidian/Install Obsidian.md"
+    "040 Areas/Obsidian/Obsidian Plugins this vault uses.md",
+    "040 Areas/Obsidian/Obsidian MOC.md",
+    "040 Areas/Obsidian/This Vaults Github Repository.md",
+    "040 Areas/Obsidian/What is Obsidian.md",
+    "Home.md",
+    "jason.guide.md"
   ]
 }
