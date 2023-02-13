@@ -1,0 +1,1 @@
+Obsidian's [[Command Palette]] has a "File Recovery: Open saved snapshots" command! This lets you see various snapshots of your library's history!

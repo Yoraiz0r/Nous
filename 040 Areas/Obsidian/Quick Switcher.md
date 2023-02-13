@@ -1,0 +1,3 @@
+Quick Switcher is an obsidian menu that can be opened with the `Ctrl+O` hotkey by default. It helps looking for commands or existing files and switch to them, as well as creating brand new files if you specify a path that does not exist.
+
+If you have any [[Obsidian Plugins this vault uses|Plugins]] installed, they'll add their own commands to the quick switcher. You can often find those by searching the plugin's name.
